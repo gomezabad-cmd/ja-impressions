@@ -49,16 +49,16 @@ Serigrafía, bordados, vinil, sublimación, impresión digital de gran formato.
 
 ## Páginas del sitio
 - Inicio: https://www.ja-impressions.com/
-- Sobre nosotros: https://www.ja-impressions.com/about.html
-- Catálogo: https://www.ja-impressions.com/catalogo.html
-- Preguntas frecuentes: https://www.ja-impressions.com/faq.html
-- Banners: https://www.ja-impressions.com/banners.html
-- Serigrafía: https://www.ja-impressions.com/serigrafia.html
-- Bordados: https://www.ja-impressions.com/bordados.html
-- Tazas: https://www.ja-impressions.com/tazas.html
-- Sellos: https://www.ja-impressions.com/sellos.html
-- Política de privacidad: https://www.ja-impressions.com/privacy.html
-- Términos y condiciones: https://www.ja-impressions.com/terminos.html
+- Sobre nosotros: https://www.ja-impressions.com/about
+- Catálogo: https://www.ja-impressions.com/catalogo
+- Preguntas frecuentes: https://www.ja-impressions.com/faq
+- Banners: https://www.ja-impressions.com/banners
+- Serigrafía: https://www.ja-impressions.com/serigrafia
+- Bordados: https://www.ja-impressions.com/bordados
+- Tazas: https://www.ja-impressions.com/tazas
+- Sellos: https://www.ja-impressions.com/sellos
+- Política de privacidad: https://www.ja-impressions.com/privacy
+- Términos y condiciones: https://www.ja-impressions.com/terminos
 
 ## Ubicación
 Bella Vista, Ciudad de Panamá, Panamá (8.9824, -79.5189)

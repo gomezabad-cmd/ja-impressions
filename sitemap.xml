@@ -7,67 +7,61 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/catalogo.html</loc>
+    <loc>https://www.ja-impressions.com/catalogo</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/banners.html</loc>
+    <loc>https://www.ja-impressions.com/banners</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/serigrafia.html</loc>
+    <loc>https://www.ja-impressions.com/serigrafia</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/sellos.html</loc>
+    <loc>https://www.ja-impressions.com/sellos</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/bordados.html</loc>
+    <loc>https://www.ja-impressions.com/bordados</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/tazas.html</loc>
+    <loc>https://www.ja-impressions.com/tazas</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/gracias.html</loc>
-    <lastmod>2026-08-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://www.ja-impressions.com/privacy.html</loc>
+    <loc>https://www.ja-impressions.com/privacy</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/terminos.html</loc>
+    <loc>https://www.ja-impressions.com/terminos</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/about.html</loc>
+    <loc>https://www.ja-impressions.com/about</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.ja-impressions.com/faq.html</loc>
+    <loc>https://www.ja-impressions.com/faq</loc>
     <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
