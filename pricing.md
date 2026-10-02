@@ -5,7 +5,7 @@ Cada proyecto es único. Te enviamos una cotización personalizada en menos de 2
 
 ## Rangos de precios de referencia
 
-### Banners y Foamboard
+### Impresión de Gran Formato
 - Banners publicitarios: desde $15/m²
 - Foamboard: desde $20/m²
 - Lonas para exterior: desde $12/m²
@@ -22,7 +22,7 @@ Cada proyecto es único. Te enviamos una cotización personalizada en menos de 2
 - Bordados en gorras: desde $3.50/unidad (mínimo 30 uds)
 - Patch bordado: desde $2.50/unidad (mínimo 50 uds)
 
-### Tazas Personalizadas
+### Productos Promocionales
 - Tazas de cerámica sublimadas: desde $4.50/unidad (mínimo 20 uds)
 - Termos personalizados: desde $8.00/unidad (mínimo 20 uds)
 
@@ -34,6 +34,8 @@ Cada proyecto es único. Te enviamos una cotización personalizada en menos de 2
 - Tarjetas de presentación: desde $15.00/100 unidades
 - Volantes: desde $25.00/500 unidades
 - Folletos: precio según tamaño y cantidad
+
+### Impresión Digital
 - Libretas personalizadas: desde $3.00/unidad (mínimo 50 uds)
 
 ## Formas de pago

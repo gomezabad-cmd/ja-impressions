@@ -4,17 +4,18 @@
 JAimpression es una imprenta y centro de personalización ubicada en Bella Vista, Ciudad de Panamá, Panamá. Fundada en 2014, ofrecemos servicios de impresión profesional para empresas, comercios y particulares con más de 10 años de experiencia, 500+ clientes satisfechos y 3,000+ proyectos realizados.
 
 ## Servicios principales
-- **Banners y Foamboard**: Impresión gran formato para interior y exterior. Lonas, avisos comerciales, material POP. Precio promedio: $5-$15 por pie cuadrado.
+- **Impresión de Gran Formato**: Impresión gran formato para interior y exterior. Banners, lonas, avisos comerciales, material POP. Precio promedio: $5-$15 por pie cuadrado.
 - **Serigrafía**: Estampado textil profesional en camisas, polos, gorras, uniformes. Precio promedio: $3-$8 por camisa (20-50 unidades).
 - **Bordados**: Bordados computarizados para uniformes corporativos, promocionales y merchandising.
-- **Tazas Personalizadas**: Sublimación de alta calidad para regalos corporativos y eventos. Mínimo 20-25 unidades.
+- **Productos Promocionales**: Tazas y termos con sublimación de alta calidad para regalos corporativos y eventos. Mínimo 20-25 unidades.
+- **Impresión Digital**: Libretas, talonarios de facturas, recibos y formatos administrativos con impresión profesional.
 - **Sellos Automáticos**: Fabricación de sellos de bolsillo y automáticos personalizados.
-- **Material Publicitario**: Volantes, tarjetas de presentación, folletos, catálogos, libretas y facturas.
+- **Material Publicitario**: Volantes, tarjetas de presentación, folletos y catálogos.
 
 ## Información de precios
-- Banners: $5-$15 por pie cuadrado
+- Impresión de gran formato: $5-$15 por pie cuadrado
 - Serigrafía por camisa: $3-$8 (20-50 unidades)
-- Tazas personalizadas: desde $5 por unidad (mínimo 20)
+- Tazas personalizadas (productos promocionales): desde $5 por unidad (mínimo 20)
 - Tiempo de producción: 7-15 días hábiles
 - Cotización en menos de 24 horas
 
@@ -52,10 +53,10 @@ Serigrafía, bordados, vinil, sublimación, impresión digital de gran formato.
 - Sobre nosotros: https://www.ja-impressions.com/about
 - Catálogo: https://www.ja-impressions.com/catalogo
 - Preguntas frecuentes: https://www.ja-impressions.com/faq
-- Banners: https://www.ja-impressions.com/banners
+- Impresión de gran formato: https://www.ja-impressions.com/banners
 - Serigrafía: https://www.ja-impressions.com/serigrafia
 - Bordados: https://www.ja-impressions.com/bordados
-- Tazas: https://www.ja-impressions.com/tazas
+- Productos promocionales: https://www.ja-impressions.com/tazas
 - Sellos: https://www.ja-impressions.com/sellos
 - Política de privacidad: https://www.ja-impressions.com/privacy
 - Términos y condiciones: https://www.ja-impressions.com/terminos
