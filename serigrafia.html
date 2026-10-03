@@ -51,6 +51,46 @@ gtag('config', 'G-QX2LK1FZEG');
   "serviceType": "Serigrafía textil"
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "¿Cuánto cuesta serigrafiar una camisa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "En pedidos de 20 a 50 unidades, el precio promedio está entre $3 y $8 por camisa, según el número de colores y la prenda. Tu cotización llega en menos de 24 horas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cuál es el mínimo de pedido?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "El mínimo habitual es de 20 a 50 unidades por diseño. Para volúmenes mayores ofrecemos precios corporativos especiales."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Qué prendas se pueden estampar?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Camisas, polos, gorras, uniformes y prendas promocionales. Si tienes una prenda especial, cuéntanosla y la evaluamos."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "¿Cuánto demora un pedido de serigrafía?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La producción estándar es de 7 a 15 días hábiles después de aprobar la prueba y confirmar el pedido."
+      }
+    }
+  ]
+}
+</script>
 <link rel="icon" type="image/png" sizes="64x64" href="/favicon.png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -80,6 +120,25 @@ gtag('config', 'G-QX2LK1FZEG');
   .hero { padding-top: 60px; min-height: 35vh; }
   .related-grid { grid-template-columns: 1fr; }
 }
+
+.svc-process { background: var(--cream); }
+.process-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+.process-step { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius); padding: 24px 20px; box-shadow: var(--shadow-sm); }
+.process-step .num { display: inline-flex; width: 36px; height: 36px; border-radius: 50%; background: var(--navy); color: var(--gold); font-weight: 800; align-items: center; justify-content: center; font-size: .95rem; margin-bottom: 12px; }
+.process-step h3 { font-size: 1rem; font-weight: 700; color: var(--navy); margin-bottom: 8px; }
+.process-step p { font-size: .9rem; color: var(--gray-600); line-height: 1.6; }
+.svc-faq .faq-list { max-width: 820px; margin: 0 auto; }
+.svc-faq .faq-item { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius); padding: 22px 26px; margin-bottom: 14px; box-shadow: var(--shadow-sm); }
+.svc-faq .faq-item h3 { font-size: 1.02rem; font-weight: 700; color: var(--navy); margin-bottom: 8px; }
+.svc-faq .faq-item p { color: var(--gray-600); line-height: 1.7; font-size: .95rem; }
+.svc-faq .faq-note { text-align: center; margin-top: 26px; color: var(--gray-600); font-size: .95rem; }
+.svc-faq .faq-note a { color: var(--gold); font-weight: 600; }
+@media (max-width: 900px) { .process-grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 640px) { .process-grid { grid-template-columns: 1fr; } }
+
+.svc-mats .mats-body { max-width: 780px; margin: 0 auto; }
+.svc-mats .mats-intro { color: var(--gray-600); line-height: 1.7; }
+.svc-mats .mats-closing { margin-top: 24px; color: var(--gray-600); line-height: 1.7; font-size: .98rem; }
 </style>
 </head>
 <body>
@@ -128,12 +187,91 @@ gtag('config', 'G-QX2LK1FZEG');
           <li>Serigrafía multicolor y de alta precisión</li>
           <li>Pedidos por mayor para empresas e instituciones</li>
         </ul>
+                <p style="margin-top:16px">Estampamos camisas, polos, gorras y uniformes con tintas de alta duración que mantienen el color tras los lavados. Trabajamos por separación de colores, desde diseños de una tinta hasta composiciones multicolor, siempre con prueba previa para que apruebes el resultado.</p>
         <a href="https://wa.me/50762183704?text=Hola%20JAimpression%2C%20quiero%20una%20cotizaci%C3%B3n%20de%20serigraf%C3%ADa." target="_blank" rel="noopener" class="hero-cta svc-cta">Cotizar por WhatsApp →</a>
       </div>
       <div data-reveal data-reveal-delay="200">
         <img src="img/serigrafia_full.webp" alt="Estampado serigráfico JAimpression" loading="lazy">
       </div>
     </div>
+  </div>
+</section>
+
+<section class="svc-mats">
+  <div class="container">
+    <div class="section-header" data-reveal>
+      <span class="section-label">Tintas y prendas</span>
+      <h2 class="section-title">Calidad controlada en cada estampación</h2>
+    </div>
+    <div class="mats-body" data-reveal>
+      <p class="mats-intro">La calidad de una estampación depende de la tinta, la malla y la prenda. En cada pedido controlamos los tres:</p>
+      <ul class="svc-list">
+          <li>Tintas textiles de alta adherencia que soportan los lavados y el uso diario sin agrietarse.</li>
+          <li>Separación de colores por capas con registro preciso, para diseños de una o varias tintas.</li>
+          <li>Prendas de algodón y mezclas: camisas, polos, gorras y uniformes de trabajo.</li>
+          <li>Prueba previa: apruebas posición y colores antes de estampar la serie completa.</li>
+      </ul>
+      <p class="mats-closing">¿Ya tienes el diseño? Envíanoslo con la cantidad y la prenda para recibir tu cotización con precio por unidad en menos de 24 horas.</p>
+    </div>
+  </div>
+</section>
+
+<section class="svc-process">
+  <div class="container">
+    <div class="section-header" data-reveal>
+      <span class="section-label">Nuestro proceso</span>
+      <h2 class="section-title">Cómo producimos tu pedido de serigrafía</h2>
+    </div>
+    <div class="process-grid">
+        <div class="process-step" data-reveal data-reveal-delay="000">
+          <span class="num">1</span>
+          <h3>Cotización</h3>
+          <p>Nos indicas prenda, cantidad y número de colores. Recibes tu precio por unidad en menos de 24 horas.</p>
+        </div>
+        <div class="process-step" data-reveal data-reveal-delay="10000">
+          <span class="num">2</span>
+          <h3>Arte y separación</h3>
+          <p>Preparamos el archivo para serigrafía, separamos los colores y te enviamos la prueba para aprobación.</p>
+        </div>
+        <div class="process-step" data-reveal data-reveal-delay="20000">
+          <span class="num">3</span>
+          <h3>Estampado</h3>
+          <p>Aplicamos la tinta sobre la prenda con mallas calibradas por color y registro preciso.</p>
+        </div>
+        <div class="process-step" data-reveal data-reveal-delay="30000">
+          <span class="num">4</span>
+          <h3>Entrega</h3>
+          <p>Planchado, empaque y entrega en Ciudad de Panamá, con envíos al interior del país.</p>
+        </div>
+    </div>
+  </div>
+</section>
+
+<section class="svc-faq">
+  <div class="container">
+    <div class="section-header" data-reveal>
+      <span class="section-label">Preguntas frecuentes</span>
+      <h2 class="section-title">Preguntas frecuentes sobre serigrafía</h2>
+    </div>
+    <div class="faq-list">
+        <div class="faq-item" data-reveal data-reveal-delay="000">
+          <h3>¿Cuánto cuesta serigrafiar una camisa?</h3>
+          <p>En pedidos de 20 a 50 unidades, el precio promedio está entre $3 y $8 por camisa, según el número de colores y la prenda. Tu cotización llega en menos de 24 horas.</p>
+        </div>
+        <div class="faq-item" data-reveal data-reveal-delay="10000">
+          <h3>¿Cuál es el mínimo de pedido?</h3>
+          <p>El mínimo habitual es de 20 a 50 unidades por diseño. Para volúmenes mayores ofrecemos precios corporativos especiales.</p>
+        </div>
+        <div class="faq-item" data-reveal data-reveal-delay="20000">
+          <h3>¿Qué prendas se pueden estampar?</h3>
+          <p>Camisas, polos, gorras, uniformes y prendas promocionales. Si tienes una prenda especial, cuéntanosla y la evaluamos.</p>
+        </div>
+        <div class="faq-item" data-reveal data-reveal-delay="30000">
+          <h3>¿Cuánto demora un pedido de serigrafía?</h3>
+          <p>La producción estándar es de 7 a 15 días hábiles después de aprobar la prueba y confirmar el pedido.</p>
+        </div>
+    </div>
+    <p class="faq-note">¿Otras dudas? Visita nuestras <a href="/faq">preguntas frecuentes</a> o cotiza por <a href="https://wa.me/50762183704" target="_blank" rel="noopener">WhatsApp</a>.</p>
   </div>
 </section>
 
